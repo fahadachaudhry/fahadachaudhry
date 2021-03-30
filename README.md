@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **anything, especially if you are a lost programmer's soul and want to delve back into the coding thing or just looking for some general guidance about starting a programming career.**
 
-- 📫 How to reach me **You can react me @FahadAChaudhry on LinkedIn.**
+- 📫 How to reach me **You can reach me @FahadAChaudhry on LinkedIn.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
