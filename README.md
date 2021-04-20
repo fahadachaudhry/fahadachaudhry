@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-<table style="font-size: 12px;">
+<table style="font-size: 12px; border: none;">
   <tr>
     <td rowspan="9">  
       <img
@@ -34,9 +34,6 @@
     <td><img width="70" alt="CSS3" src="https://img.shields.io/badge/-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></td>
     <td><img width="70" alt="HTML5" src="https://img.shields.io/badge/-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></td>
     <td><img width="70" alt="C#" src="https://img.shields.io/badge/-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/></td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>Frameworks</td>
@@ -45,17 +42,11 @@
     <td><img width="70" alt="SASS" src="https://img.shields.io/badge/-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/></td>
     <td><img width="70" alt=".Net" src="https://img.shields.io/badge/-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>Tools</td>
     <td><img width="70" alt="GitHub" src="https://img.shields.io/badge/-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></td>
     <td><img width="70" alt="Postman" src="https://img.shields.io/badge/-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></td>
-    <td></td>
-    <td></td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -67,17 +58,11 @@
     <td><img width="70" alt="Figma" src="https://img.shields.io/badge/-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>Dev Tools</td>
     <td><img width="70" alt="Visual Studio Code" src="https://img.shields.io/badge/-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/></td>
     <td><img width="70" alt="Visual Studio" src="https://img.shields.io/badge/-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/></td>
-    <td></td>
-    <td></td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
