@@ -1,21 +1,87 @@
-<h1 align="center">Hi 👋, I'm Shahzada Fahad Ashraf</h1>
-<h3 align="center">I'm a Software Engineer with pro bono programmers' counselling program going on the side!</h3>
+<h1>Hi 👋, I'm Shahzada Fahad Ashraf</h1>
+<br/>
+<p>I'm a Pro Bono Programming Career Consultant and Full Stack Developer</p>
 
-- 🔭 I’m currently working **as a Software Engineer at ConradLabs**
+<a target="_blank" href="https://LinkedIn.com/in/fahadachaudhry"><img alt="LinkedIn" src="https://img.shields.io/badge/FahadAChaudhry%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a target="_blank" href="https://Instagram.com/fahadachaudhry"><img alt="Instagram" src="https://img.shields.io/badge/FahadAChaudhry%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<a target="_blank" href="https://Facebook.com/fahadachaudhry"><img alt="Facebook" src="https://img.shields.io/badge/FahadAChaudhry%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
 
-- 💬 Ask me about **anything, especially if you are a lost programmer's soul and want to delve back into the coding thing or just looking for some general guidance about starting a programming career.**
-
-- 📫 How to reach me **You can reach me @FahadAChaudhry on LinkedIn.**
-
-<h3 align="left">Socials</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fahadachaudhry" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fahadachaudhry" height="30" width="40" /></a>
-<a href="https://fb.com/fahadachaudhry" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="fahadachaudhry" height="30" width="40" /></a>
-<a href="https://instagram.com/fahadachaudhry" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="fahadachaudhry" height="30" width="40" /></a>
-<a href="https://www.behance.net/fahadachaudhry" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="fahadachaudhry" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadachaudhry&show_icons=true&locale=en&layout=compact" alt="fahadachaudhry" /></p>
+<br/>
+<br/>
+<table>
+  <tr>
+    <td rowspan="9">  
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadachaudhry&show_icons=true&locale=en&layout=compact"
+        alt="fahadachaudhry"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Languages</td>
+    <td><img alt="JavaScript" src="https://img.shields.io/badge/%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></td>
+    <td><img alt="TypeScript" src="https://img.shields.io/badge/%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/></td>
+    <td><img alt="CSS3" src="https://img.shields.io/badge/%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></td>
+    <td><img alt="HTML5" src="https://img.shields.io/badge/%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></td>
+    <td><img alt="C#" src="https://img.shields.io/badge/%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Frameworks</td>
+    <td><img alt="React" src="https://img.shields.io/badge/%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></td>
+    <td><img alt="Bootstrap" src="https://img.shields.io/badge/%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/></td>
+    <td><img alt="SASS" src="https://img.shields.io/badge/%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/></td>
+    <td><img alt=".Net" src="https://img.shields.io/badge/%20-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tools</td>
+    <td><img alt="GitHub" src="https://img.shields.io/badge/%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></td>
+    <td><img alt="Postman" src="https://img.shields.io/badge/%20-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Design Tools</td>
+    <td><img alt="Adobe Photoshop" src="https://img.shields.io/badge/%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/></td>
+    <td><img alt="Adobe Illustrator" src="https://img.shields.io/badge/%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/></td>
+    <td><img alt="Figma" src="https://img.shields.io/badge/%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Dev Tools</td>
+    <td><img alt="Visual Studio Code" src="https://img.shields.io/badge/%20-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/></td>
+    <td><img alt="Visual Studio" src="https://img.shields.io/badge/%20-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <!-- <tr>
+    <td>Tools</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr> -->
+</table>
