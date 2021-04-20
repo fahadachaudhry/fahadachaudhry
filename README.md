@@ -3,13 +3,13 @@
 <p>I'm a Pro Bono Programming Career Consultant and Full Stack Developer</p>
 
 <a target="_blank" href="https://LinkedIn.com/in/fahadachaudhry">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/FahadAChaudhry-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a target="_blank" href="https://Instagram.com/fahadachaudhry">
-  <img alt="Instagram" src="https://img.shields.io/badge/FahadAChaudhry-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 <a target="_blank" href="https://Facebook.com/fahadachaudhry">
-  <img alt="Facebook" src="https://img.shields.io/badge/FahadAChaudhry-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
+  <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
 </a>
 
 <br/>
